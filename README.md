@@ -40,7 +40,7 @@ docker build -t elma7ask/busybox-curl .
 
 - **Title:** BusyBox with curl
 - **Description:** A minimal image based on BusyBox with the `curl` utility added.
-- **Authors:** Wael Mohamed <wael.mohamed@atos.net>, Wael Mohamed <wael.mohamed.ahmed2@gmail.com>
+- **Authors:** Wael Mohamed <wael.mohamed.ahmed2@gmail.com>
 - **Version:** 1.0.0
 - **License:** MIT
 
